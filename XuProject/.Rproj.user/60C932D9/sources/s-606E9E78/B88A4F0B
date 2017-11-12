@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510410287565.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B88A4F0B",
+    "lastKnownWriteTime" : 1510457568,
+    "last_content_update" : 1510457568421,
+    "path" : "C:/PKU_research/XuProject/XuProject/SpliceSiteCheck.R",
+    "project_path" : "SpliceSiteCheck.R",
+    "properties" : {
+        "cursorPosition" : "64,0",
+        "scrollLine" : "46",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

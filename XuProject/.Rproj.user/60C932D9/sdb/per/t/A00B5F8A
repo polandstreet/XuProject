@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "source(\"https://bioconductor.org/biocLite.R\")\n\nbiocLite(\"BSgenome\")\nlibrary(\"BSgenome\")\n\nbiocLite(\"BSgenome.Hsapiens.UCSC.hg38\")\n\nlibrary(BSgenome.Hsapiens.UCSC.hg38)",
+    "created" : 1510393072786.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3583131767",
+    "id" : "A00B5F8A",
+    "lastKnownWriteTime" : 1510406072,
+    "last_content_update" : 1510406072952,
+    "path" : "C:/PKU_research/XuProject/XuProject/SpliceSiteCheck.R",
+    "project_path" : "SpliceSiteCheck.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
